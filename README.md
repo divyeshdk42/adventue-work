@@ -1,0 +1,1 @@
+AdventureWorks Cycles is a fictional manufacturing company. The task was to convert raw data into high-quality reports and dashboards that track key performance indicators (KPIs), compare performance across regions, analyze trends at the product level, and identify high-value customers.
